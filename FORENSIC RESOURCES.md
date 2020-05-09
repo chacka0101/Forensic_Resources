@@ -7,7 +7,7 @@ FORENSIC RESOURCES:
 * DISTROS: https://distrowatch.com/search.php?category=Forensics
 * Cheatsheet: https://jpminty.github.io//cheatsheet/DFIR/
 
-ANÁLISIS MALWARE:
+MALWARE RESOURCES:
 --
 * https://www.hybrid-analysis.com/file-collections
 * https://www.virustotal.com/
